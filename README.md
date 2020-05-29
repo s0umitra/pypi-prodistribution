@@ -1,5 +1,7 @@
 # pypi-prodistribution
 
+pypi : https://pypi.org/project/prodistribution/
+
 #### a python package to work with Gaussian and Binomial Distributions
 
 This package provides funtions to
